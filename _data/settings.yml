@@ -76,7 +76,7 @@ work-process:
 
 
 # My Team Section
-team:
+#team:
   - title : "Jack Schenziwe"
     image : "assets/images/team/member-1.png"
     designation : "Project Manager"
