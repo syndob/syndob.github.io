@@ -7,8 +7,6 @@ author: KSH
 description: this is meta description
 email: syndob@gmail.com
 phone: +82 10 2090 0093
-address: 
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
